@@ -1,0 +1,2 @@
+include ':lab2_ActivityLab'
+include ':lab2_ActivityLabTest'
